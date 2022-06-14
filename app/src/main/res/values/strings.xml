@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps PDM</string>
+    <string name="latitudePlace">Latitude</string>
+    <string name="longPlaceholder">Longitude</string>
+</resources>
